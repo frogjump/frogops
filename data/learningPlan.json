@@ -1,0 +1,422 @@
+[
+  {
+    "day": 1,
+    "mission": "Introduce Yourself",
+    "vocabulary": [
+      "introduce",
+      "experience",
+      "responsible",
+      "operations",
+      "team"
+    ],
+    "expression": "I'm responsible for...",
+    "script": "Hi, I'm Alex. I work as a Product Operations Manager. I'm responsible for product operations and cross-functional collaboration. I have over five years of experience in product operations.",
+    "challenge": "Introduce yourself in 30 seconds."
+  },
+  {
+    "day": 2,
+    "mission": "Talk About Your Job",
+    "vocabulary": [
+      "position",
+      "department",
+      "manage",
+      "support",
+      "project"
+    ],
+    "expression": "I can talk about talk about your job.",
+    "script": "This is a sample speaking script for 'Talk About Your Job'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About Your Job' for 30-60 seconds."
+  },
+  {
+    "day": 3,
+    "mission": "Describe Your Daily Work",
+    "vocabulary": [
+      "meeting",
+      "review",
+      "launch",
+      "schedule",
+      "report"
+    ],
+    "expression": "I can talk about describe your daily work.",
+    "script": "This is a sample speaking script for 'Describe Your Daily Work'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Describe Your Daily Work' for 30-60 seconds."
+  },
+  {
+    "day": 4,
+    "mission": "Talk About Your Company",
+    "vocabulary": [
+      "company",
+      "industry",
+      "customer",
+      "technology",
+      "service"
+    ],
+    "expression": "I can talk about talk about your company.",
+    "script": "This is a sample speaking script for 'Talk About Your Company'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About Your Company' for 30-60 seconds."
+  },
+  {
+    "day": 5,
+    "mission": "Introduce Your Product",
+    "vocabulary": [
+      "product",
+      "feature",
+      "recording",
+      "transcription",
+      "translation"
+    ],
+    "expression": "I can talk about introduce your product.",
+    "script": "This is a sample speaking script for 'Introduce Your Product'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Introduce Your Product' for 30-60 seconds."
+  },
+  {
+    "day": 6,
+    "mission": "Small Talk at Work",
+    "vocabulary": [
+      "weekend",
+      "busy",
+      "coffee",
+      "weather",
+      "plan"
+    ],
+    "expression": "I can talk about small talk at work.",
+    "script": "This is a sample speaking script for 'Small Talk at Work'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Small Talk at Work' for 30-60 seconds."
+  },
+  {
+    "day": 7,
+    "mission": "Give a Work Update",
+    "vocabulary": [
+      "progress",
+      "complete",
+      "task",
+      "deadline",
+      "status"
+    ],
+    "expression": "I can talk about give a work update.",
+    "script": "This is a sample speaking script for 'Give a Work Update'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Give a Work Update' for 30-60 seconds."
+  },
+  {
+    "day": 8,
+    "mission": "Ask Questions",
+    "vocabulary": [
+      "clarify",
+      "confirm",
+      "detail",
+      "question",
+      "understand"
+    ],
+    "expression": "I can talk about ask questions.",
+    "script": "This is a sample speaking script for 'Ask Questions'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Ask Questions' for 30-60 seconds."
+  },
+  {
+    "day": 9,
+    "mission": "Express Your Opinion",
+    "vocabulary": [
+      "agree",
+      "suggest",
+      "prefer",
+      "reason",
+      "option"
+    ],
+    "expression": "I can talk about express your opinion.",
+    "script": "This is a sample speaking script for 'Express Your Opinion'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Express Your Opinion' for 30-60 seconds."
+  },
+  {
+    "day": 10,
+    "mission": "Ask for Help",
+    "vocabulary": [
+      "help",
+      "support",
+      "issue",
+      "solve",
+      "assist"
+    ],
+    "expression": "I can talk about ask for help.",
+    "script": "This is a sample speaking script for 'Ask for Help'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Ask for Help' for 30-60 seconds."
+  },
+  {
+    "day": 11,
+    "mission": "Discuss User Feedback",
+    "vocabulary": [
+      "feedback",
+      "complaint",
+      "suggestion",
+      "improve",
+      "experience"
+    ],
+    "expression": "I can talk about discuss user feedback.",
+    "script": "This is a sample speaking script for 'Discuss User Feedback'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Discuss User Feedback' for 30-60 seconds."
+  },
+  {
+    "day": 12,
+    "mission": "Explain a Product Feature",
+    "vocabulary": [
+      "feature",
+      "function",
+      "support",
+      "enable",
+      "workflow"
+    ],
+    "expression": "I can talk about explain a product feature.",
+    "script": "This is a sample speaking script for 'Explain a Product Feature'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Explain a Product Feature' for 30-60 seconds."
+  },
+  {
+    "day": 13,
+    "mission": "Talk About a Product Launch",
+    "vocabulary": [
+      "launch",
+      "release",
+      "version",
+      "update",
+      "schedule"
+    ],
+    "expression": "I can talk about talk about a product launch.",
+    "script": "This is a sample speaking script for 'Talk About a Product Launch'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About a Product Launch' for 30-60 seconds."
+  },
+  {
+    "day": 14,
+    "mission": "Report Data",
+    "vocabulary": [
+      "data",
+      "growth",
+      "increase",
+      "decrease",
+      "result"
+    ],
+    "expression": "I can talk about report data.",
+    "script": "This is a sample speaking script for 'Report Data'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Report Data' for 30-60 seconds."
+  },
+  {
+    "day": 15,
+    "mission": "Present Project Progress",
+    "vocabulary": [
+      "progress",
+      "milestone",
+      "deliver",
+      "complete",
+      "next"
+    ],
+    "expression": "I can talk about present project progress.",
+    "script": "This is a sample speaking script for 'Present Project Progress'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Present Project Progress' for 30-60 seconds."
+  },
+  {
+    "day": 16,
+    "mission": "Explain a Problem",
+    "vocabulary": [
+      "problem",
+      "issue",
+      "cause",
+      "impact",
+      "solution"
+    ],
+    "expression": "I can talk about explain a problem.",
+    "script": "This is a sample speaking script for 'Explain a Problem'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Explain a Problem' for 30-60 seconds."
+  },
+  {
+    "day": 17,
+    "mission": "Give Suggestions",
+    "vocabulary": [
+      "recommend",
+      "suggest",
+      "option",
+      "better",
+      "improve"
+    ],
+    "expression": "I can talk about give suggestions.",
+    "script": "This is a sample speaking script for 'Give Suggestions'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Give Suggestions' for 30-60 seconds."
+  },
+  {
+    "day": 18,
+    "mission": "Communicate Across Teams",
+    "vocabulary": [
+      "coordinate",
+      "align",
+      "requirement",
+      "developer",
+      "designer"
+    ],
+    "expression": "I can talk about communicate across teams.",
+    "script": "This is a sample speaking script for 'Communicate Across Teams'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Communicate Across Teams' for 30-60 seconds."
+  },
+  {
+    "day": 19,
+    "mission": "Handle Unexpected Situations",
+    "vocabulary": [
+      "urgent",
+      "delay",
+      "risk",
+      "fix",
+      "priority"
+    ],
+    "expression": "I can talk about handle unexpected situations.",
+    "script": "This is a sample speaking script for 'Handle Unexpected Situations'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Handle Unexpected Situations' for 30-60 seconds."
+  },
+  {
+    "day": 20,
+    "mission": "Weekly Review",
+    "vocabulary": [
+      "review",
+      "achievement",
+      "lesson",
+      "goal",
+      "improvement"
+    ],
+    "expression": "I can talk about weekly review.",
+    "script": "This is a sample speaking script for 'Weekly Review'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Weekly Review' for 30-60 seconds."
+  },
+  {
+    "day": 21,
+    "mission": "Talk About Your Biggest Achievement",
+    "vocabulary": [
+      "achievement",
+      "successful",
+      "improve",
+      "result",
+      "impact"
+    ],
+    "expression": "I can talk about talk about your biggest achievement.",
+    "script": "This is a sample speaking script for 'Talk About Your Biggest Achievement'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About Your Biggest Achievement' for 30-60 seconds."
+  },
+  {
+    "day": 22,
+    "mission": "Introduce a Project",
+    "vocabulary": [
+      "project",
+      "objective",
+      "timeline",
+      "deliverable",
+      "outcome"
+    ],
+    "expression": "I can talk about introduce a project.",
+    "script": "This is a sample speaking script for 'Introduce a Project'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Introduce a Project' for 30-60 seconds."
+  },
+  {
+    "day": 23,
+    "mission": "Talk About Your Strengths",
+    "vocabulary": [
+      "strength",
+      "communication",
+      "organized",
+      "collaboration",
+      "efficient"
+    ],
+    "expression": "I can talk about talk about your strengths.",
+    "script": "This is a sample speaking script for 'Talk About Your Strengths'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About Your Strengths' for 30-60 seconds."
+  },
+  {
+    "day": 24,
+    "mission": "Talk About Your Weaknesses",
+    "vocabulary": [
+      "weakness",
+      "improve",
+      "learning",
+      "challenge",
+      "develop"
+    ],
+    "expression": "I can talk about talk about your weaknesses.",
+    "script": "This is a sample speaking script for 'Talk About Your Weaknesses'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Talk About Your Weaknesses' for 30-60 seconds."
+  },
+  {
+    "day": 25,
+    "mission": "Why Do You Want This Job?",
+    "vocabulary": [
+      "opportunity",
+      "growth",
+      "career",
+      "challenge",
+      "value"
+    ],
+    "expression": "I can talk about why do you want this job?.",
+    "script": "This is a sample speaking script for 'Why Do You Want This Job?'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Why Do You Want This Job?' for 30-60 seconds."
+  },
+  {
+    "day": 26,
+    "mission": "Behavior Interview",
+    "vocabulary": [
+      "situation",
+      "task",
+      "action",
+      "result",
+      "experience"
+    ],
+    "expression": "I can talk about behavior interview.",
+    "script": "This is a sample speaking script for 'Behavior Interview'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Behavior Interview' for 30-60 seconds."
+  },
+  {
+    "day": 27,
+    "mission": "Present a Product",
+    "vocabulary": [
+      "solution",
+      "benefit",
+      "customer",
+      "innovation",
+      "advantage"
+    ],
+    "expression": "I can talk about present a product.",
+    "script": "This is a sample speaking script for 'Present a Product'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Present a Product' for 30-60 seconds."
+  },
+  {
+    "day": 28,
+    "mission": "Host a Meeting",
+    "vocabulary": [
+      "agenda",
+      "discussion",
+      "decision",
+      "summary",
+      "action"
+    ],
+    "expression": "I can talk about host a meeting.",
+    "script": "This is a sample speaking script for 'Host a Meeting'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Host a Meeting' for 30-60 seconds."
+  },
+  {
+    "day": 29,
+    "mission": "Final Review",
+    "vocabulary": [
+      "review",
+      "confidence",
+      "progress",
+      "improvement",
+      "future"
+    ],
+    "expression": "I can talk about final review.",
+    "script": "This is a sample speaking script for 'Final Review'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Final Review' for 30-60 seconds."
+  },
+  {
+    "day": 30,
+    "mission": "Final Speaking Challenge",
+    "vocabulary": [
+      "introduce",
+      "project",
+      "achievement",
+      "future",
+      "confidence"
+    ],
+    "expression": "I can talk about final speaking challenge.",
+    "script": "This is a sample speaking script for 'Final Speaking Challenge'. Read it once, then try to say it again in your own words.",
+    "challenge": "Speak about 'Final Speaking Challenge' for 30-60 seconds."
+  }
+]

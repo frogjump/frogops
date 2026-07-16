@@ -1,4 +1,7 @@
+import learningPlan from "../data/learningPlan.json";
 export default function Home() {
+  const today = learningPlan[0];
+
   return (
     <main
       style={{
@@ -54,14 +57,16 @@ export default function Home() {
             Today's Mission
           </div>
 
-          <div>🎯 Product Ops English · Day 1</div>
+          <div>
+  🎯 Product Ops English · Day {today.day}
+</div>
 
           <div style={{ marginTop: "8px", color: "#888" }}>
             ⏱ 10 Minutes
           </div>
         </div>
 
-  <a href="/day1">
+  <a href={`/day/${today.day}`}>
   <button
     style={{
       width: "100%",
