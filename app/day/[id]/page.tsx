@@ -17,6 +17,12 @@ type PageProps = {
   }>;
 };
 
+export function generateStaticParams() {
+  return (learningPlan as Lesson[]).map((item) => ({
+    id: String(item.day),
+  }));
+}
+
 export default async function DayPage({ params }: PageProps) {
   const { id } = await params;
 
@@ -55,7 +61,6 @@ export default async function DayPage({ params }: PageProps) {
       <hr />
 
       <h3>📚 Vocabulary</h3>
-
       <ul>
         {lesson.vocabulary.map((word) => (
           <li key={word}>{word}</li>
@@ -63,15 +68,12 @@ export default async function DayPage({ params }: PageProps) {
       </ul>
 
       <h3>💬 Expression</h3>
-
       <p>{lesson.expression}</p>
 
       <h3>📝 Script</h3>
-
       <p>{lesson.script}</p>
 
       <h3>🎯 Challenge</h3>
-
       <p>{lesson.challenge}</p>
 
       <hr />
@@ -84,7 +86,9 @@ export default async function DayPage({ params }: PageProps) {
         }}
       >
         {lesson.day > 1 ? (
-          <Link href={`/day/${lesson.day - 1}`}>← Previous</Link>
+          <Link href={`/day/${lesson.day - 1}`}>
+            ← Previous
+          </Link>
         ) : (
           <span />
         )}
@@ -92,7 +96,9 @@ export default async function DayPage({ params }: PageProps) {
         <Link href="/">🏠 Home</Link>
 
         {lesson.day < 30 ? (
-          <Link href={`/day/${lesson.day + 1}`}>Next →</Link>
+          <Link href={`/day/${lesson.day + 1}`}>
+            Next →
+          </Link>
         ) : (
           <span />
         )}
