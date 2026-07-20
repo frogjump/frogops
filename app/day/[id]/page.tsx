@@ -1,6 +1,7 @@
 import learningPlan from "@/data/learningPlan.json";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import SpeechButton from "@/components/SpeechButton";
 
 type Lesson = {
   day: number;
@@ -73,9 +74,13 @@ export default async function DayPage({ params }: PageProps) {
                 key={word}
                 className="rounded-2xl border border-green-100 bg-white p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
               >
-                <div className="text-lg font-semibold text-green-700">
-                  {word}
-                </div>
+                <div className="flex items-center justify-between">
+  <span className="text-lg font-semibold text-green-700">
+    {word}
+  </span>
+
+  <SpeechButton text={word} />
+</div>
               </div>
             ))}
           </div>
@@ -87,9 +92,13 @@ export default async function DayPage({ params }: PageProps) {
             💬 Expression
           </h2>
 
-          <p className="text-lg leading-8 text-gray-700">
-            {lesson.expression}
-          </p>
+          <div className="flex items-start justify-between gap-4">
+  <p className="text-lg leading-8 text-gray-700">
+    {lesson.expression}
+  </p>
+
+  <SpeechButton text={lesson.expression} />
+</div>
         </section>
 
         {/* Script */}
