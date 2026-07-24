@@ -2,34 +2,28 @@
 
 type SpeechButtonProps = {
   text: string;
+  type?: "vocabulary" | "expression";
+  fileName?: string;
 };
 
-export default function SpeechButton({ text }: SpeechButtonProps) {
-  const speak = () => {
-    if (!window.speechSynthesis) {
-      alert("Your browser doesn't support speech synthesis.");
-      return;
-    }
+export default function SpeechButton({
+  text,
+  type = "vocabulary",
+  fileName,
+}: SpeechButtonProps) {
 
-    // 清空之前可能残留的播放队列
-    window.speechSynthesis.cancel();
+  const playAudio = () => {
+    const audio = new Audio(
+      `/audio/${type}/${fileName ?? text}.mp3`
+    );
 
-    // 等待一小会儿再播放，避免 Chrome interrupted
-    setTimeout(() => {
-      const utterance = new SpeechSynthesisUtterance(text);
-
-      utterance.lang = "en-US";
-      utterance.rate = 0.9;
-      utterance.pitch = 1;
-      utterance.volume = 1;
-
-      window.speechSynthesis.speak(utterance);
-    }, 100);
+    audio.play();
   };
+
 
   return (
     <button
-      onClick={speak}
+      onClick={playAudio}
       className="flex h-9 w-9 items-center justify-center rounded-full bg-green-100 text-lg transition hover:bg-green-200 active:scale-95"
       title="Play pronunciation"
     >

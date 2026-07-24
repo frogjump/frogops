@@ -97,7 +97,11 @@ export default async function DayPage({ params }: PageProps) {
     {lesson.expression}
   </p>
 
-  <SpeechButton text={lesson.expression} />
+  <SpeechButton
+  text={lesson.expression}
+  type="expression"
+  fileName="responsible_for"
+/>
 </div>
         </section>
 
