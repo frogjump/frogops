@@ -1,422 +1,785 @@
 [
   {
     "day": 1,
-    "mission": "Introduce Yourself",
+    "title": "Product Operations Basics",
+    "mission": "Learn the basic vocabulary and expressions used in product operations.",
     "vocabulary": [
-      "introduce",
-      "experience",
-      "responsible",
-      "operations",
-      "team"
+      {
+        "word": "product",
+        "translation": "产品"
+      },
+      {
+        "word": "operation",
+        "translation": "运营"
+      },
+      {
+        "word": "customer",
+        "translation": "客户"
+      },
+      {
+        "word": "feature",
+        "translation": "功能"
+      },
+      {
+        "word": "responsible",
+        "translation": "负责的"
+      }
     ],
-    "expression": "I'm responsible for...",
-    "script": "Hi, I'm Alex. I work as a Product Operations Manager. I'm responsible for product operations and cross-functional collaboration. I have over five years of experience in product operations.",
-    "challenge": "Introduce yourself in 30 seconds."
+    "expression": {
+      "text": "Let me introduce our product.",
+      "translation": "让我介绍一下我们的产品。"
+    },
+    "script": "Hi, I'm responsible for product operations. Our product helps users work more efficiently.",
+    "challenge": {
+      "text": "Introduce yourself and your product operations role.",
+      "translation": "用英文介绍你自己以及你的产品运营工作。"
+    }
   },
   {
     "day": 2,
-    "mission": "Talk About Your Job",
+    "title": "Talk About Your Job",
+    "mission": "Learn how to introduce your job and responsibilities.",
     "vocabulary": [
-      "position",
-      "department",
-      "manage",
-      "support",
-      "project"
+      {
+        "word": "position",
+        "translation": "职位"
+      },
+      {
+        "word": "department",
+        "translation": "部门"
+      },
+      {
+        "word": "manage",
+        "translation": "管理"
+      },
+      {
+        "word": "support",
+        "translation": "支持"
+      },
+      {
+        "word": "project",
+        "translation": "项目"
+      }
     ],
-    "expression": "I can talk about talk about your job.",
-    "script": "This is a sample speaking script for 'Talk About Your Job'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About Your Job' for 30-60 seconds."
+    "expression": {
+      "text": "I manage projects and support product teams.",
+      "translation": "我负责管理项目，并支持产品团队。"
+    },
+    "script": "I'm a product operations manager. I work with different teams and support product growth.",
+    "challenge": {
+      "text": "Introduce your job in three sentences.",
+      "translation": "用三句话介绍你的工作。"
+    }
   },
   {
     "day": 3,
-    "mission": "Describe Your Daily Work",
+    "title": "Describe Your Daily Work",
+    "mission": "Learn how to explain your daily work tasks.",
     "vocabulary": [
-      "meeting",
-      "review",
-      "launch",
-      "schedule",
-      "report"
+      {
+        "word": "task",
+        "translation": "任务"
+      },
+      {
+        "word": "schedule",
+        "translation": "计划安排"
+      },
+      {
+        "word": "meeting",
+        "translation": "会议"
+      },
+      {
+        "word": "update",
+        "translation": "更新"
+      },
+      {
+        "word": "report",
+        "translation": "报告"
+      }
     ],
-    "expression": "I can talk about describe your daily work.",
-    "script": "This is a sample speaking script for 'Describe Your Daily Work'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Describe Your Daily Work' for 30-60 seconds."
+    "expression": {
+      "text": "I usually prepare reports and join meetings every day.",
+      "translation": "我通常每天准备报告并参加会议。"},
+    "script": "Every morning, I check my schedule and organize important tasks.",
+    "challenge": {
+      "text": "Describe your typical workday.",
+      "translation": "描述你典型的一天工作。"
+    }
   },
   {
     "day": 4,
-    "mission": "Talk About Your Company",
+    "title": "Work With Teams",
+    "mission": "Learn how to communicate with different teams.",
     "vocabulary": [
-      "company",
-      "industry",
-      "customer",
-      "technology",
-      "service"
+      {
+        "word": "team",
+        "translation": "团队"
+      },
+      {
+        "word": "communicate",
+        "translation": "沟通"
+      },
+      {
+        "word": "coordinate",
+        "translation": "协调"
+      },
+      {
+        "word": "feedback",
+        "translation": "反馈"
+      },
+      {
+        "word": "solution",
+        "translation": "解决方案"
+      }
     ],
-    "expression": "I can talk about talk about your company.",
-    "script": "This is a sample speaking script for 'Talk About Your Company'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About Your Company' for 30-60 seconds."
+    "expression": {
+      "text": "I work with different teams to solve problems.",
+      "translation": "我和不同团队合作解决问题。"
+    },
+    "script": "Good communication helps teams work better.",
+    "challenge": {
+      "text": "Explain how you work with your teammates.",
+      "translation": "解释你如何与团队成员合作。"
+    }
   },
   {
     "day": 5,
-    "mission": "Introduce Your Product",
+    "title": "Talk About Product Goals",
+    "mission": "Learn how to discuss product goals and plans.",
     "vocabulary": [
-      "product",
-      "feature",
-      "recording",
-      "transcription",
-      "translation"
+      {
+        "word": "goal",
+        "translation": "目标"},
+      {
+        "word": "strategy",
+        "translation": "策略"
+      },
+      {
+        "word": "market",
+        "translation": "市场"
+      },
+      {
+        "word": "improve",
+        "translation": "提升"
+      },
+      {
+        "word": "experience",
+        "translation": "体验"
+      }
     ],
-    "expression": "I can talk about introduce your product.",
-    "script": "This is a sample speaking script for 'Introduce Your Product'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Introduce Your Product' for 30-60 seconds."
+    "expression": {
+      "text": "Our goal is to improve the customer experience.",
+      "translation": "我们的目标是提升客户体验。"
+    },
+    "script": "We focus on customer needs and improve our product experience.",
+    "challenge": {
+      "text": "Talk about one product goal.",
+      "translation": "介绍一个产品目标。"
+    }
   },
   {
     "day": 6,
-    "mission": "Small Talk at Work",
+    "title": "Understand User Needs",
+    "mission": "Learn how to talk about users and their needs.",
     "vocabulary": [
-      "weekend",
-      "busy",
-      "coffee",
-      "weather",
-      "plan"
+      {
+        "word": "user",
+        "translation": "用户"
+      },
+      {
+        "word": "need",
+        "translation": "需求"
+      },
+      {
+        "word": "feedback",
+        "translation": "反馈"
+      },
+      {
+        "word": "behavior",
+        "translation": "行为"
+      },
+      {
+        "word": "analyze",
+        "translation": "分析"
+      }
     ],
-    "expression": "I can talk about small talk at work.",
-    "script": "This is a sample speaking script for 'Small Talk at Work'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Small Talk at Work' for 30-60 seconds."
+    "expression": {
+      "text": "We analyze user feedback to understand their needs.",
+      "translation": "我们分析用户反馈来理解他们的需求。"},
+    "script": "Understanding users is important for product success. We collect feedback and analyze user behavior.",
+    "challenge": {
+      "text": "Explain how you understand user needs.",
+      "translation": "解释你如何理解用户需求。"
+    }
   },
   {
     "day": 7,
-    "mission": "Give a Work Update",
+    "title": "Discuss Product Features",
+    "mission": "Learn how to describe product features.",
     "vocabulary": [
-      "progress",
-      "complete",
-      "task",
-      "deadline",
-      "status"
+      {
+        "word": "feature",
+        "translation": "功能"},
+      {
+        "word": "design",
+        "translation": "设计"},
+      {
+        "word": "function",
+        "translation": "功能作用"},
+      {
+        "word": "launch",
+        "translation": "上线"},
+      {
+        "word": "release",
+        "translation": "发布"}
     ],
-    "expression": "I can talk about give a work update.",
-    "script": "This is a sample speaking script for 'Give a Work Update'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Give a Work Update' for 30-60 seconds."
+    "expression": {
+      "text": "This feature helps users complete tasks more efficiently.",
+      "translation": "这个功能帮助用户更高效地完成任务。"},
+    "script": "We designed a new feature based on user feedback and plan to launch it soon.",
+    "challenge": {
+      "text": "Introduce one product feature.",
+      "translation": "介绍一个产品功能。"
+    }
   },
   {
     "day": 8,
-    "mission": "Ask Questions",
+    "title": "Manage Product Problems",
+    "mission": "Learn how to discuss problems and solutions.",
     "vocabulary": [
-      "clarify",
-      "confirm",
-      "detail",
-      "question",
-      "understand"
+      {
+        "word": "issue",
+        "translation": "问题"},
+      {
+        "word": "problem",
+        "translation": "困难"},
+      {
+        "word": "fix",
+        "translation": "修复"},
+      {
+        "word": "resolve",
+        "translation": "解决"},
+      {
+        "word": "risk",
+        "translation": "风险"}
     ],
-    "expression": "I can talk about ask questions.",
-    "script": "This is a sample speaking script for 'Ask Questions'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Ask Questions' for 30-60 seconds."
+    "expression": {
+      "text": "We need to identify the issue and find a solution.",
+      "translation": "我们需要找到问题并寻找解决方案。"},
+    "script": "When problems happen, we analyze the situation and find solutions.",
+    "challenge": {
+      "text": "Describe how you solve a work problem.",
+      "translation": "描述你如何解决一个工作问题。"
+    }
   },
   {
     "day": 9,
-    "mission": "Express Your Opinion",
+    "title": "Talk About Data",
+    "mission": "Learn basic workplace English for discussing data.",
     "vocabulary": [
-      "agree",
-      "suggest",
-      "prefer",
-      "reason",
-      "option"
+      {
+        "word": "data",
+        "translation": "数据"},
+      {
+        "word": "metric",
+        "translation": "指标"},
+      {
+        "word": "growth",
+        "translation": "增长"},
+      {
+        "word": "result",
+        "translation": "结果"},
+      {
+        "word": "measure",
+        "translation": "衡量"}
     ],
-    "expression": "I can talk about express your opinion.",
-    "script": "This is a sample speaking script for 'Express Your Opinion'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Express Your Opinion' for 30-60 seconds."
+    "expression": {
+      "text": "We use data to measure product performance.",
+      "translation": "我们使用数据衡量产品表现。"},
+    "script": "Data helps us understand product performance and make better decisions.",
+    "challenge": {
+      "text": "Talk about one important metric.",
+      "translation": "介绍一个重要指标。"
+    }
   },
   {
     "day": 10,
-    "mission": "Ask for Help",
+    "title": "Share Work Updates",
+    "mission": "Learn how to give professional work updates.",
     "vocabulary": [
-      "help",
-      "support",
-      "issue",
-      "solve",
-      "assist"
+      {
+        "word": "progress",
+        "translation": "进展"},
+      {
+        "word": "complete",
+        "translation": "完成"},
+      {
+        "word": "delay",
+        "translation": "延期"},
+      {
+        "word": "priority",
+        "translation": "优先事项"},
+      {
+        "word": "next step",
+        "translation": "下一步"}
     ],
-    "expression": "I can talk about ask for help.",
-    "script": "This is a sample speaking script for 'Ask for Help'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Ask for Help' for 30-60 seconds."
+    "expression": {
+      "text": "Here is the progress update and our next step.",
+      "translation": "这是当前进展和我们的下一步计划。"},
+    "script": "I will share the latest progress, discuss priorities, and explain the next steps.",
+    "challenge": {
+      "text": "Give a short project update.",
+      "translation": "进行一次简短的项目进展汇报。"
+    }
   },
   {
     "day": 11,
-    "mission": "Discuss User Feedback",
+    "title": "Join Product Meetings",
+    "mission": "Learn useful English expressions for product meetings.",
     "vocabulary": [
-      "feedback",
-      "complaint",
-      "suggestion",
-      "improve",
-      "experience"
+      {
+        "word": "agenda",
+        "translation": "会议议程"},
+      {
+        "word": "discuss",
+        "translation": "讨论"},
+      {
+        "word": "opinion",
+        "translation": "观点"},
+      {
+        "word": "decision",
+        "translation": "决定"},
+      {
+        "word": "agree",
+        "translation": "同意"}
     ],
-    "expression": "I can talk about discuss user feedback.",
-    "script": "This is a sample speaking script for 'Discuss User Feedback'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Discuss User Feedback' for 30-60 seconds."
+    "expression": {
+      "text": "Let's discuss this topic and make a decision together.",
+      "translation": "让我们讨论这个话题并一起做决定。"},
+    "script": "In product meetings, we share opinions, discuss problems, and make decisions together.",
+    "challenge": {
+      "text": "Share your opinion in a meeting.",
+      "translation": "在会议中表达你的观点。"
+    }
   },
   {
     "day": 12,
-    "mission": "Explain a Product Feature",
+    "title": "Explain Product Strategy",
+    "mission": "Learn how to talk about product strategy.",
     "vocabulary": [
-      "feature",
-      "function",
-      "support",
-      "enable",
-      "workflow"
+      {
+        "word": "vision",
+        "translation": "愿景"},
+      {
+        "word": "plan",
+        "translation": "计划"},
+      {
+        "word": "direction",
+        "translation": "方向"},
+      {
+        "word": "market",
+        "translation": "市场"},
+      {
+        "word": "opportunity",
+        "translation": "机会"}
     ],
-    "expression": "I can talk about explain a product feature.",
-    "script": "This is a sample speaking script for 'Explain a Product Feature'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Explain a Product Feature' for 30-60 seconds."
+    "expression": {
+      "text": "Our strategy focuses on improving user experience.",
+      "translation": "我们的策略重点是提升用户体验。"},
+    "script": "A clear product strategy helps teams understand goals and directions.",
+    "challenge": {
+      "text": "Explain your product strategy.",
+      "translation": "解释你的产品策略。"
+    }
   },
   {
     "day": 13,
-    "mission": "Talk About a Product Launch",
+    "title": "Work With Stakeholders",
+    "mission": "Learn how to communicate with important partners.",
     "vocabulary": [
-      "launch",
-      "release",
-      "version",
-      "update",
-      "schedule"
+      {
+        "word": "stakeholder",
+        "translation": "利益相关者"},
+      {
+        "word": "partner",
+        "translation": "合作伙伴"},
+      {
+        "word": "expectation",
+        "translation": "期望"},
+      {
+        "word": "requirement",
+        "translation": "要求"},
+      {
+        "word": "alignment",
+        "translation": "一致"}
     ],
-    "expression": "I can talk about talk about a product launch.",
-    "script": "This is a sample speaking script for 'Talk About a Product Launch'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About a Product Launch' for 30-60 seconds."
+    "expression": {
+      "text": "We need to align with stakeholders before moving forward.",
+      "translation": "我们需要在推进之前和相关方达成一致。"},
+    "script": "Good communication with stakeholders helps projects move smoothly.",
+    "challenge": {
+      "text": "Explain how you work with stakeholders.",
+      "translation": "解释你如何与相关方合作。"
+    }
   },
   {
     "day": 14,
-    "mission": "Report Data",
+    "title": "Handle Customer Feedback",
+    "mission": "Learn how to respond to customer feedback.",
     "vocabulary": [
-      "data",
-      "growth",
-      "increase",
-      "decrease",
-      "result"
+      {
+        "word": "complaint",
+        "translation": "投诉"},
+      {
+        "word": "request",
+        "translation": "请求"},
+      {
+        "word": "respond",
+        "translation": "回应"},
+      {
+        "word": "satisfaction",
+        "translation": "满意度"},
+      {
+        "word": "solution",
+        "translation": "解决方案"}
     ],
-    "expression": "I can talk about report data.",
-    "script": "This is a sample speaking script for 'Report Data'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Report Data' for 30-60 seconds."
+    "expression": {
+      "text": "We listen to customers and provide better solutions.",
+      "translation": "我们倾听客户并提供更好的解决方案。"},
+    "script": "Customer feedback helps us improve products and provide better services.",
+    "challenge": {
+      "text": "Describe how you handle feedback.",
+      "translation": "描述你如何处理反馈。"
+    }
   },
   {
     "day": 15,
-    "mission": "Present Project Progress",
+    "title": "Manage Project Progress",
+    "mission": "Learn how to talk about project management.",
     "vocabulary": [
-      "progress",
-      "milestone",
-      "deliver",
-      "complete",
-      "next"
+      {
+        "word": "timeline",
+        "translation": "时间计划"},
+      {
+        "word": "milestone",
+        "translation": "里程碑"},
+      {
+        "word": "deadline",
+        "translation": "截止日期"},
+      {
+        "word": "resource",
+        "translation": "资源"},
+      {
+        "word": "track",
+        "translation": "跟踪"}
     ],
-    "expression": "I can talk about present project progress.",
-    "script": "This is a sample speaking script for 'Present Project Progress'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Present Project Progress' for 30-60 seconds."
+    "expression": {
+      "text": "We track project progress and make sure everything is on schedule.",
+      "translation": "我们跟踪项目进展并确保一切按计划进行。"},
+    "script": "Project management requires clear timelines, resources, and communication.",
+    "challenge": {
+      "text": "Give a project progress update.",
+      "translation": "汇报项目进展。"
+    }
   },
   {
     "day": 16,
-    "mission": "Explain a Problem",
+    "title": "Prioritize Work Tasks",
+    "mission": "Learn how to talk about priorities and workload.",
     "vocabulary": [
-      "problem",
-      "issue",
-      "cause",
-      "impact",
-      "solution"
+      {
+        "word": "priority",
+        "translation": "优先级"},
+      {
+        "word": "urgent",
+        "translation": "紧急的"},
+      {
+        "word": "important",
+        "translation": "重要的"},
+      {
+        "word": "focus",
+        "translation": "关注重点"},
+      {
+        "word": "balance",
+        "translation": "平衡"}
     ],
-    "expression": "I can talk about explain a problem.",
-    "script": "This is a sample speaking script for 'Explain a Problem'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Explain a Problem' for 30-60 seconds."
+    "expression": {
+      "text": "I need to prioritize my tasks and focus on the most important work.",
+      "translation": "我需要安排任务优先级，并专注于最重要的工作。"},
+    "script": "Good prioritization helps teams finish important tasks efficiently.",
+    "challenge": {
+      "text": "Explain how you prioritize your work.",
+      "translation": "解释你如何安排工作的优先级。"
+    }
   },
   {
     "day": 17,
-    "mission": "Give Suggestions",
+    "title": "Present Product Results",
+    "mission": "Learn how to present product results professionally.",
     "vocabulary": [
-      "recommend",
-      "suggest",
-      "option",
-      "better",
-      "improve"
+      {
+        "word": "presentation",
+        "translation": "演示汇报"},
+      {
+        "word": "achievement",
+        "translation": "成果"},
+      {
+        "word": "impact",
+        "translation": "影响"},
+      {
+        "word": "increase",
+        "translation": "增长"},
+      {
+        "word": "decrease",
+        "translation": "下降"}
     ],
-    "expression": "I can talk about give suggestions.",
-    "script": "This is a sample speaking script for 'Give Suggestions'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Give Suggestions' for 30-60 seconds."
+    "expression": {
+      "text": "The project achieved positive results and improved user experience.",
+      "translation": "这个项目取得了积极成果，并提升了用户体验。"},
+    "script": "When presenting results, we should explain achievements, data, and business impact.",
+    "challenge": {
+      "text": "Present one product achievement.",
+      "translation": "介绍一个产品成果。"
+    }
   },
   {
     "day": 18,
-    "mission": "Communicate Across Teams",
+    "title": "Discuss Product Improvements",
+    "mission": "Learn how to talk about improving products.",
     "vocabulary": [
-      "coordinate",
-      "align",
-      "requirement",
-      "developer",
-      "designer"
+      {
+        "word": "optimize",
+        "translation": "优化"},
+      {
+        "word": "upgrade",
+        "translation": "升级"},
+      {
+        "word": "performance",
+        "translation": "表现"},
+      {
+        "word": "efficiency",
+        "translation": "效率"},
+      {
+        "word": "enhance",
+        "translation": "增强"}
     ],
-    "expression": "I can talk about communicate across teams.",
-    "script": "This is a sample speaking script for 'Communicate Across Teams'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Communicate Across Teams' for 30-60 seconds."
+    "expression": {
+      "text": "We want to optimize the product and enhance user experience.",
+      "translation": "我们希望优化产品并增强用户体验。"},
+    "script": "Product improvements should focus on user needs and business goals.",
+    "challenge": {
+      "text": "Describe one product improvement.",
+      "translation": "描述一个产品优化。"
+    }
   },
   {
     "day": 19,
-    "mission": "Handle Unexpected Situations",
+    "title": "Work Across Departments",
+    "mission": "Learn how to communicate across different departments.",
     "vocabulary": [
-      "urgent",
-      "delay",
-      "risk",
-      "fix",
-      "priority"
+      {
+        "word": "department",
+        "translation": "部门"},
+      {
+        "word": "collaborate",
+        "translation": "合作"},
+      {
+        "word": "process",
+        "translation": "流程"},
+      {
+        "word": "coordinate",
+        "translation": "协调"},
+      {
+        "word": "deliver",
+        "translation": "交付"}
     ],
-    "expression": "I can talk about handle unexpected situations.",
-    "script": "This is a sample speaking script for 'Handle Unexpected Situations'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Handle Unexpected Situations' for 30-60 seconds."
+    "expression": {
+      "text": "We collaborate with different departments to deliver better results.",
+      "translation": "我们与不同部门合作，以取得更好的结果。"},
+    "script": "Cross-functional collaboration is important for successful projects.",
+    "challenge": {
+      "text": "Explain how you collaborate with other teams.",
+      "translation": "解释你如何与其他团队合作。"
+    }
   },
   {
     "day": 20,
-    "mission": "Weekly Review",
+    "title": "Review Work Experience",
+    "mission": "Learn how to summarize your professional experience.",
     "vocabulary": [
-      "review",
-      "achievement",
-      "lesson",
-      "goal",
-      "improvement"
+      {
+        "word": "experience",
+        "translation": "经验"},
+      {
+        "word": "skill",
+        "translation": "技能"},
+      {
+        "word": "responsibility",
+        "translation": "职责"},
+      {
+        "word": "career",
+        "translation": "职业发展"},
+      {
+        "word": "growth",
+        "translation": "成长"}
     ],
-    "expression": "I can talk about weekly review.",
-    "script": "This is a sample speaking script for 'Weekly Review'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Weekly Review' for 30-60 seconds."
+    "expression": {
+      "text": "I have experience in product operations and project management.",
+      "translation": "我在产品运营和项目管理方面有经验。"},
+    "script": "My experience helps me solve problems, communicate with teams, and create value.",
+    "challenge": {
+      "text": "Introduce your professional experience.",
+      "translation": "介绍你的职业经历。"
+    }
   },
   {
     "day": 21,
-    "mission": "Talk About Your Biggest Achievement",
+    "title": "Introduce Your Professional Background",
+    "mission": "Learn how to introduce your role and professional experience.",
     "vocabulary": [
-      "achievement",
-      "successful",
-      "improve",
-      "result",
-      "impact"
+      {
+        "word": "background",
+        "translation": "背景"},
+      {
+        "word": "role",
+        "translation": "角色，职位"},
+      {
+        "word": "experience",
+        "translation": "经验"},
+      {
+        "word": "responsibility",
+        "translation": "职责"},
+      {
+        "word": "achievement",
+        "translation": "成果"}
     ],
-    "expression": "I can talk about talk about your biggest achievement.",
-    "script": "This is a sample speaking script for 'Talk About Your Biggest Achievement'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About Your Biggest Achievement' for 30-60 seconds."
+    "expression": {
+      "text": "I work in product operations and manage daily business tasks.",
+      "translation": "我从事产品运营工作，负责日常业务工作。"},
+    "script": "I have experience in product operations. My role is to support products, users, and business teams.",
+    "challenge": {
+      "text": "Introduce yourself as a product operations professional.",
+      "translation": "以产品运营从业者身份介绍自己。"
+    }
   },
   {
     "day": 22,
-    "mission": "Introduce a Project",
+    "title": "Explain Your Work Responsibilities",
+    "mission": "Learn how to describe your daily responsibilities.",
     "vocabulary": [
-      "project",
-      "objective",
-      "timeline",
-      "deliverable",
-      "outcome"
+      {
+        "word": "manage",
+        "translation": "管理"},
+      {
+        "word": "operate",
+        "translation": "运营"},
+      {
+        "word": "coordinate",
+        "translation": "协调"},
+      {
+        "word": "support",
+        "translation": "支持"},
+      {
+        "word": "deliver",
+        "translation": "交付，完成"}
     ],
-    "expression": "I can talk about introduce a project.",
-    "script": "This is a sample speaking script for 'Introduce a Project'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Introduce a Project' for 30-60 seconds."
+    "expression": {
+      "text": "I coordinate teams and make sure projects move forward.",
+      "translation": "我协调团队并确保项目持续推进。"},
+    "script": "My daily work includes coordinating teams, solving problems, and supporting product growth.",
+    "challenge": {
+      "text": "Explain your main work responsibilities.",
+      "translation": "介绍你的主要工作职责。"
+    }
   },
   {
     "day": 23,
-    "mission": "Talk About Your Strengths",
+    "title": "Communicate Across Teams",
+    "mission": "Learn how to work with different teams.",
     "vocabulary": [
-      "strength",
-      "communication",
-      "organized",
-      "collaboration",
-      "efficient"
+      {
+        "word": "stakeholder",
+        "translation": "利益相关方"},
+      {
+        "word": "alignment",
+        "translation": "目标一致"},
+      {
+        "word": "collaborate",
+        "translation": "合作"},
+      {
+        "word": "requirement",
+        "translation": "需求，要求"},
+      {
+        "word": "priority",
+        "translation": "优先级"}
     ],
-    "expression": "I can talk about talk about your strengths.",
-    "script": "This is a sample speaking script for 'Talk About Your Strengths'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About Your Strengths' for 30-60 seconds."
+    "expression": {
+      "text": "I work with different teams to align goals and priorities.",
+      "translation": "我和不同团队合作，确保目标和优先级一致。"},
+    "script": "Product operations requires communication with product, engineering, and business teams.",
+    "challenge": {
+      "text": "Describe how you collaborate with other teams.",
+      "translation": "描述你如何与其他团队合作。"
+    }
   },
   {
     "day": 24,
-    "mission": "Talk About Your Weaknesses",
+    "title": "Report Product Performance",
+    "mission": "Learn how to talk about data and business results.",
     "vocabulary": [
-      "weakness",
-      "improve",
-      "learning",
-      "challenge",
-      "develop"
+      {
+        "word": "metric",
+        "translation": "指标"},
+      {
+        "word": "growth",
+        "translation": "增长"},
+      {
+        "word": "conversion",
+        "translation": "转化率"},
+      {
+        "word": "performance",
+        "translation": "表现"},
+      {
+        "word": "result",
+        "translation": "结果"}
     ],
-    "expression": "I can talk about talk about your weaknesses.",
-    "script": "This is a sample speaking script for 'Talk About Your Weaknesses'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Talk About Your Weaknesses' for 30-60 seconds."
+    "expression": {
+      "text": "We use metrics to understand product performance.",
+      "translation": "我们通过指标了解产品表现。"},
+    "script": "I analyze data and share results with teams to support better decisions.",
+    "challenge": {
+      "text": "Give a short product performance update.",
+      "translation": "进行一次简短的产品表现汇报。"
+    }
   },
   {
     "day": 25,
-    "mission": "Why Do You Want This Job?",
+    "title": "Manage Product Launches",
+    "mission": "Learn English for product launch communication.",
     "vocabulary": [
-      "opportunity",
-      "growth",
-      "career",
-      "challenge",
-      "value"
+      {
+        "word": "roadmap",
+        "translation": "产品路线图"},
+      {
+        "word": "launch",
+        "translation": "上线，发布"},
+      {
+        "word": "release",
+        "translation": "版本发布"},
+      {
+        "word": "testing",
+        "translation": "测试"},
+      {
+        "word": "feedback",
+        "translation": "反馈"}
     ],
-    "expression": "I can talk about why do you want this job?.",
-    "script": "This is a sample speaking script for 'Why Do You Want This Job?'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Why Do You Want This Job?' for 30-60 seconds."
-  },
-  {
-    "day": 26,
-    "mission": "Behavior Interview",
-    "vocabulary": [
-      "situation",
-      "task",
-      "action",
-      "result",
-      "experience"
-    ],
-    "expression": "I can talk about behavior interview.",
-    "script": "This is a sample speaking script for 'Behavior Interview'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Behavior Interview' for 30-60 seconds."
-  },
-  {
-    "day": 27,
-    "mission": "Present a Product",
-    "vocabulary": [
-      "solution",
-      "benefit",
-      "customer",
-      "innovation",
-      "advantage"
-    ],
-    "expression": "I can talk about present a product.",
-    "script": "This is a sample speaking script for 'Present a Product'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Present a Product' for 30-60 seconds."
-  },
-  {
-    "day": 28,
-    "mission": "Host a Meeting",
-    "vocabulary": [
-      "agenda",
-      "discussion",
-      "decision",
-      "summary",
-      "action"
-    ],
-    "expression": "I can talk about host a meeting.",
-    "script": "This is a sample speaking script for 'Host a Meeting'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Host a Meeting' for 30-60 seconds."
-  },
-  {
-    "day": 29,
-    "mission": "Final Review",
-    "vocabulary": [
-      "review",
-      "confidence",
-      "progress",
-      "improvement",
-      "future"
-    ],
-    "expression": "I can talk about final review.",
-    "script": "This is a sample speaking script for 'Final Review'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Final Review' for 30-60 seconds."
-  },
-  {
-    "day": 30,
-    "mission": "Final Speaking Challenge",
-    "vocabulary": [
-      "introduce",
-      "project",
-      "achievement",
-      "future",
-      "confidence"
-    ],
-    "expression": "I can talk about final speaking challenge.",
-    "script": "This is a sample speaking script for 'Final Speaking Challenge'. Read it once, then try to say it again in your own words.",
-    "challenge": "Speak about 'Final Speaking Challenge' for 30-60 seconds."
+    "expression": {
+      "text": "We prepare the launch plan and collect user feedback.",
+      "translation": "我们准备上线计划并收集用户反馈。"},
+    "script": "Before a product launch, teams need to prepare plans, test features, and collect feedback.",
+    "challenge": {
+      "text": "Explain how you prepare a product launch.",
+      "translation": "解释你如何准备产品上线。"
+    }
   }
 ]

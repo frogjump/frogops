@@ -1,31 +1,19 @@
 "use client";
 
 type SpeechButtonProps = {
-  text: string;
-  type?: "vocabulary" | "expression";
-  fileName?: string;
+  src: string;
 };
 
-export default function SpeechButton({
-  text,
-  type = "vocabulary",
-  fileName,
-}: SpeechButtonProps) {
-
-  const playAudio = () => {
-    const audio = new Audio(
-      `/audio/${type}/${fileName ?? text}.mp3`
-    );
-
+export default function SpeechButton({ src }: SpeechButtonProps) {
+  const play = () => {
+    const audio = new Audio(src);
     audio.play();
   };
 
-
   return (
     <button
-      onClick={playAudio}
-      className="flex h-9 w-9 items-center justify-center rounded-full bg-green-100 text-lg transition hover:bg-green-200 active:scale-95"
-      title="Play pronunciation"
+      onClick={play}
+      className="ml-2 rounded-full bg-green-100 px-3 py-2 hover:bg-green-200"
     >
       🔊
     </button>
